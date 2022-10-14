@@ -125,3 +125,4 @@ lanches.meuPedidoFuncTimeOut();
     Arrow functions não podem ser constructors, então é possivel usar operador new com a mesma,
 */
 
+

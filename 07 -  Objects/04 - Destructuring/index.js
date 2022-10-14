@@ -31,5 +31,5 @@ const Tenis = {
 // console.log(Tenis.link.a);
 // console.log(Tenis.link.b.c);
 
-//hasOwnProperty | propertyName in Tenis
+
 
